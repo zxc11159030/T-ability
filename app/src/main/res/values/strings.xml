@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">T-ability</string>
+    <string name="tvPtTitle">T-ability</string>
+    <string name="btPtOk">歡迎入來</string>
+    <string name="btPtA">A級</string>
+    <string name="tvPtHuagiA">中文</string>
+    <string name="tvPtHanjiA">漢字</string>
+    <string name="tvPtTailo">台羅</string>
+    <string name="etHanjiA" />
+    <string name="etTailoA" />
+    <string name="etHuagiA" />
+    <string name="btPtFindA">查詢</string>
+    <string name="btPtB">B級</string>
+    <string-array name="tansuB">
+        <item>一下</item>
+        <item>一月日</item>
+        <item>一日到暗</item>
+        <item>一世人</item>
+        <item>一半</item>
+        <item>一四界</item>
+        <item>一旦</item>
+        <item>一目𥍉仔</item>
+        <item>一甲子</item>
+        <item>一來</item>
+    </string-array>
+    <string name="btPtHuagiB">中文</string>
+    <string name="btPtHamjiB">漢字</string>
+    <string name="btPtTailoB">台羅</string>
+    <string name="btPtC">C級</string>
+    <string name="tvPtHuagiC">中文</string>
+    <string name="tvPtHanjiC">漢字</string>
+    <string name="tvPtTailoC">台羅</string>
+    <string name="btPtDicionary">臺灣閩南語常用語辭典</string>
+    <string name="btPtPractice">練習看覓</string>
+    <string name="tvPtWord">這馬咱來練習一下!</string>
+    <string name="btPtPraA">A級練習題</string>
+    <string name="btPtPraB">B級練習題</string>
+    <string name="btPtPraC">C級練習題</string>
+
+</resources>
